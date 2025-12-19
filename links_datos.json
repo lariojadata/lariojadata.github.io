@@ -1,0 +1,19 @@
+[
+    {
+        "texto": "Portal de Datos Abiertos de La Rioja",
+        "link": "https://datos.larioja.gob.ar"
+    },
+    {
+        "texto": "Instituto de Estadística y Censos de La Rioja",
+        "link": "https://iec.larioja.gob.ar"
+    },
+    {
+        "texto": "Estadísticas de Población",
+        "link": "https://datos.larioja.gob.ar/poblacion"
+    },
+    {
+        "texto": "Indicadores Económicos",
+        "link": "https://datos.larioja.gob.ar/economia"
+    }
+]
+
